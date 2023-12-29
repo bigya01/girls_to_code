@@ -1,0 +1,9 @@
+.sidenav {
+  background-color: #733ca3;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 20%;
+  margin: 10px;
+}
